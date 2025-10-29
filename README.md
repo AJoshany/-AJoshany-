@@ -1,8 +1,8 @@
-# 👋 Hi there, I'm [Your Name]
+# 👋 Hi there, I'm Ali Joshany.
 
 💻 I'm a passionate **Front-End Developer** who enjoys crafting modern, fast, and user-friendly web applications.  
-🎯 My main focus is on **React**, **Vue.js**, **Nuxt.js**, and **beautiful UI design** with **Tailwind CSS**.  
-🌱 Currently learning more about **Next.js**.
+🎯 My main focus is on **Vue.js**, **Nuxt.js**, **React**, and **beautiful UI design** with **Tailwind CSS**.  
+🌱 Currently learning more about **Nuxt.js**.
 
 ---
 
@@ -24,16 +24,24 @@
 
 ## 🚀 Featured Projects
 
-### 🎮 [initial-project-05](https://github.com/username/initial-project-05)
-A multilingual React application with dynamic content loading, language switching, and stylish UI.
+### 🎮 [Nuxt Personal Portfolio](https://github.com/AJoshany/portfolio2)
+### 🚀 Live Demo
+[🔗 Click here to view the project](https://joshany.ir)
+A personal portfolio website built with Nuxt.js, showcasing my projects, skills, and experience. It features a clean, responsive design and smooth navigation, designed to highlight my work effectively.
 
-### 🚗 [Car Filter App](https://github.com/username/car-filter-app)
-A responsive car listing and filtering web app built with HTML, JavaScript, and Bootstrap.
+### 🚗 [Real Estate App](https://github.com/AJoshany/Real-state)
+### 🚀 Live Demo
+[🔗 Click here to view the project](https://real-state11.vercel.app/)
+This is a practice project for real estate listings, connected to *Supabase*, where each user's bookmarks and reserved listings are stored in the database. The project was developed collaboratively as a two-person team.
 
-### 🧩 [Disable Password Reset Plugin](https://github.com/username/disable-password-reset)
-A simple WordPress plugin that disables password reset and password change for users.
+### 🧩 [Finance Dashboard](https://github.com/AJoshany/FinanceDashboard)
+### 🚀 Live Demo
+[🔗 Click here to view the project](https://finance-dashboard-joshany.vercel.app/)
+The Financial Dashboard Project allows users to easily record and manage their transactions. It automatically analyzes income and expenses, providing clear insights through interactive charts and summaries that help users understand their spending habits and make smarter financial decisions.
 
-### 🌐 [Vue Portfolio Website](https://github.com/username/vue-portfolio)
+### 🌐 [Dashboard Admin](https://github.com/AJoshany/Dashboard-Admin)
+### 🚀 Live Demo
+[🔗 Click here to view the project](https://dashboard-admin-phi-rose.vercel.app/)
 A personal portfolio built with **Vue 3**, **Nuxt**, and **Tailwind CSS**, focused on smooth animations and responsive design.
 
 ---
