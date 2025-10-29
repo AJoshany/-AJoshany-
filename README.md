@@ -24,28 +24,28 @@
 
 ## 🚀 Featured Projects
 
-### [Nuxt Personal Portfolio](https://github.com/AJoshany/portfolio2).
+### [Nuxt Personal Portfolio](https://github.com/AJoshany/portfolio2)
 
 A personal portfolio website built with Nuxt.js, showcasing my projects, skills, and experience. It features a clean, responsive design and smooth navigation, designed to highlight my work effectively.
----
+
 🚀 Live Demo [🔗 Click here to view the project](https://joshany.ir)
 
-### [Real Estate App](https://github.com/AJoshany/Real-state).
+### [Real Estate App](https://github.com/AJoshany/Real-state)
 
 This is a practice project for real estate listings, connected to *Supabase*, where each user's bookmarks and reserved listings are stored in the database. The project was developed collaboratively as a two-person team.
----
+
 🚀 Live Demo [🔗 Click here to view the project](https://real-state11.vercel.app/)
 
-### [Finance Dashboard](https://github.com/AJoshany/FinanceDashboard).
+### [Finance Dashboard](https://github.com/AJoshany/FinanceDashboard)
 
 The Financial Dashboard Project allows users to easily record and manage their transactions. It automatically analyzes income and expenses, providing clear insights through interactive charts and summaries that help users understand their spending habits and make smarter financial decisions.
----
+
 🚀 Live Demo [🔗 Click here to view the project](https://finance-dashboard-joshany.vercel.app/)
 
-### [Dashboard Admin](https://github.com/AJoshany/Dashboard-Admin).
+### [Dashboard Admin](https://github.com/AJoshany/Dashboard-Admin)
 
 A personal portfolio built with **Vue 3**, **Nuxt**, and **Tailwind CSS**, focused on smooth animations and responsive design.
----
+
 🚀 Live Demo [🔗 Click here to view the project](https://dashboard-admin-phi-rose.vercel.app/)
 
 ---
